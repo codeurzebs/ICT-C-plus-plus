@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1682607631 source:c:\users\user\documents\programation c et c++\exercer\main.cpp
+	<iostream>
+	<string.h>
+	<math.h>
+
