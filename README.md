@@ -11,7 +11,7 @@
 | Exercice pdf | Solution |
 | -- | -- |
 | <a href="https://github.com/NGUENAZEBS/ICT-C-plus-plus/raw/main/ExercicePDF/Exercices1.pdf">Exercise1</a> | <a href="https://github.com/NGUENAZEBS/ICT-C-plus-plus/blob/main/Solution/exercise1/main.cpp">main.cpp</a> |
-|  |  |
+| Projet du tabeau | <a href="https://github.com/NGUENAZEBS/ICT-C-plus-plus/blob/main/Solution/exercer/main.cpp">main.cpp</a> |
 |  |  |
 
 
