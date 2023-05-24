@@ -1,3 +1,16 @@
+/* @Codeur ZEBS       
+ * Repos  04/05/@2023
+ * @IDE      CodeBlocks
+ * @univ 	    ICT
+ * @copyright       Copyright (c) 2022 ZEBS
+ * @license         My Login is licensed under the CodeBlocks license.
+ * @github          https://github.com/NGUENAZEBS
+ * @version         1.0.1 ICT-U
+ * Help me to keep this project
+ *https://ko-fi.com/pilotezebs
+ *club      NGcodeX
+ */
+
 #include <iostream>
 
 using namespace std;
@@ -99,3 +112,15 @@ int main()
 
     return 0;
 }
+/* @Codeur ZEBS       
+ * Repos  04/05/@2023
+ * @IDE      CodeBlocks
+ * @univ 	    ICT
+ * @copyright       Copyright (c) 2022 ZEBS
+ * @license         My Login is licensed under the CodeBlocks license.
+ * @github          https://github.com/NGUENAZEBS
+ * @version         1.0.1 ICT-U
+ * Help me to keep this project
+ *https://ko-fi.com/pilotezebs
+ *club      NGcodeX
+ */
