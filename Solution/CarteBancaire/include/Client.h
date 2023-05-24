@@ -4,7 +4,7 @@
  * @IDE      CodeBlocks
  * @univ 	    ICT
  * @copyright       Copyright (c) 2022 ZEBS
- * @license         My Login is licensed under the ECLIPSE license.
+ * @license         My Login is licensed under the CodeBlocks license.
  * @github          https://github.com/NGUENAZEBS
  * @version         1.0.1 ICT-U
  * Help me to keep this project
