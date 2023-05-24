@@ -1,3 +1,17 @@
+/* @Codeur ZEBS       
+ * Repos Presentation 25/05/23
+ * ONLINE
+ * @IDE      CodeBlocks
+ * @univ 	    ICT
+ * @copyright       Copyright (c) 2022 ZEBS
+ * @license         My Login is licensed under the ECLIPSE license.
+ * @github          https://github.com/NGUENAZEBS
+ * @version         1.0.1 ICT-U
+ * Help me to keep this project
+ *https://ko-fi.com/pilotezebs
+ *club      NGcodeX
+ */
+
 #ifndef CLIENT_H
 #define CLIENT_H
 #include "Compte.h"
@@ -31,3 +45,18 @@ class Client
 };
 
 #endif // CLIENT_H
+
+
+/* @Codeur ZEBS       
+ * Repos Presentation 25/05/23
+ * ONLINE
+ * @IDE      CodeBlocks
+ * @univ 	    ICT
+ * @copyright       Copyright (c) 2022 ZEBS
+ * @license         My Login is licensed under the ECLIPSE license.
+ * @github          https://github.com/NGUENAZEBS
+ * @version         1.0.1 ICT-U
+ * Help me to keep this project
+ *https://ko-fi.com/pilotezebs
+ *club      NGcodeX
+ */
