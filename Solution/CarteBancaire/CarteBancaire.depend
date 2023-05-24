@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1684926915 source:c:\users\user\documents\programation\cartebancaire\main.cpp
+	<iostream>
+	<vector>
+	"Client.h"
+	"Compte.h"
+	<string>
+
+1684911427 source:c:\users\user\documents\programation\cartebancaire\src\client.cpp
+	"Client.h"
+	<iostream>
+	<vector>
+
+1684911262 c:\users\user\documents\programation\cartebancaire\include\client.h
+	"Compte.h"
+	<iostream>
+	<vector>
+
+1684934878 source:c:\users\user\documents\programation\cartebancaire\src\compte.cpp
+	"Compte.h"
+	"Client.h"
+	<iostream>
+
+1684948506 c:\users\user\documents\programation\cartebancaire\include\compte.h
+	<iostream>
+	"Client.h"
+
