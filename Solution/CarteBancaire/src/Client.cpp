@@ -1,3 +1,16 @@
+/* @Codeur ZEBS       
+ * Repos Presentation 25/05/23
+ * ONLINE
+ * @IDE      CodeBlocks
+ * @univ 	    ICT
+ * @copyright       Copyright (c) 2022 ZEBS
+ * @license         My Login is licensed under the ECLIPSE license.
+ * @github          https://github.com/NGUENAZEBS
+ * @version         1.0.1 ICT-U
+ * Help me to keep this project
+ *https://ko-fi.com/pilotezebs
+ *club      NGcodeX
+ */
 #include "Client.h"
 #include <iostream>
 #include<vector>
@@ -100,3 +113,17 @@ Client::~Client()
 {
     //dtor
 }
+
+/* @Codeur ZEBS       
+ * Repos Presentation 25/05/23
+ * ONLINE
+ * @IDE      CodeBlocks
+ * @univ 	    ICT
+ * @copyright       Copyright (c) 2022 ZEBS
+ * @license         My Login is licensed under the ECLIPSE license.
+ * @github          https://github.com/NGUENAZEBS
+ * @version         1.0.1 ICT-U
+ * Help me to keep this project
+ *https://ko-fi.com/pilotezebs
+ *club      NGcodeX
+ */
